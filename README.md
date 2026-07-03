@@ -2,7 +2,7 @@
 
 Welcome! This repository documents my journey toward technical fluency.
 
-My goal isn't to become a software engineer. My goal is to become technically capable enough to automate workflows, build finance tools, work effectively with AI, and solve real problems.
+My goal is to become technically fluent enough to automate workflows, build finance tools, leverage AI effectively, and solve meaningful problems across finance, research, and knowledge systems.
 
 ## Current Focus
 
